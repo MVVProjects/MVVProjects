@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikey a.k.a. @MVVProjects
 - 👀 I’m interested in Data Analytics, Businnes Intelligence, Machine Learning.
-- 🌱 I’m currently learning Python, SQL, Azure.
+- 🌱 I’m currently learning Python, Java, SQL, Azure.
 - 📫 How to reach me: mich.walentynowicz@gmail.com
 
 <!---
